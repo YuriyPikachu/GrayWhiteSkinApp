@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GrayWhiteSkinApp</string>
+    <string name="ui_green">我是绿色</string>
+    <string name="ui_red">我是红色</string>
+    <string name="ui_yellow">我是黄色</string>
+    <string name="ui_gray_white">我是灰白色</string>
+    <string name="ui_color">我是彩色</string>
+    <string name="start_next">点我跳转到灰白界面</string>
+    <string name="back">返回</string>
+</resources>
